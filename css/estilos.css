@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital@0;1&display=swap');
+body{
+  background-image: url("img/fondito.jpg");
+  font-family: 'Space Mono', monospace;
+  font-size: 24px;
+}
+
+
+
+h1{
+  font-family: 'Space Mono';
+}
+
+h2{
+  font-family: 'Space Mono';
+}
+
+h3{
+  font-family: 'Space Mono';
+}
