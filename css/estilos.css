@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital@0;1&display=swap');
+body{
+  background-image: image(img/fondito.jpg):
+  font-family: 'Space Mono', monospace;
+  font-size: 24px;
+}
+
+
+
+h1{
+  font-family: 'Space Mono';
+}
+
+h2{
+  font-family: 'Space Mono';
+}
+
+h3{
+  font-family: 'Space Mono';
+}
+
+
+
+.estrof{
+background-color: #23F5A6;
+text-align: center;
+}
+
+.cor{
+background-color: #23F5A6;
+text-align: center;
+}
+
+.estrof2{
+background-color: #23F5A6;
+text-align: center;
+}
+.img3{
+  align-items: center;
+}
+
+.tarjeta{
+  background-color: #CEA24F;
+}
+.cancion{
+  background-color: #CEA24F;
+}
